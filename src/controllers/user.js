@@ -35,8 +35,7 @@ const getUserEmail = async (correo) => {
 
 
 
-// select "nombre", "apellido", "Correo" from "usuarios"
-// where "Correo"='juan.perez@example.com' and  "Contrasena"='password123' 
+
 
 const UserSession = async (Correo, Contrasena) => {
     try {
